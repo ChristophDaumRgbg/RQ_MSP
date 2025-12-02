@@ -1,0 +1,22 @@
+{
+  "_comment_data_path": "Absolute path to the data directory",
+  "data_path": "",
+
+  "_comment_output_dir": "Where to save output files",
+  "output_dir": "",
+
+  "_comment_plot_dir": "Where to save plots",
+  "plot_dir": "",
+
+  "_comment_asr_model": "ASR model to use, as Hugging Face ID",
+  "asr_model": "",
+
+  "_comment_asr_dataset": "Dataset to use for ASR, as Hugging Face ID",
+  "log_level": "",
+
+  "_comment_gpu_device": "Device to use",
+  "gpu_device": "",
+
+  "_comment_commonvoice_path": "Device to use",
+  "commonvoice_path": ""
+}
